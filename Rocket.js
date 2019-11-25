@@ -69,3 +69,10 @@ t
   n
    y
 */
+console.log(diagonAlley('Hacktiv8'))
+/*
+t
+ o
+  n
+   y
+*/
